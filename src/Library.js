@@ -16,8 +16,7 @@ class Library extends Component {
 
         <div className="list-books-content">
 	        <div>
-
-	        // filter books depending on shelves 
+	        
 		        <Shelf books = {books.filter((book) => (book.shelf === "currentlyReading"))} shelfTitle = "Currently Reading" changeBookShelf={this.props.changeBookShelf}/>
 		        <Shelf books = {books.filter((book) => (book.shelf === "wantToRead"))} shelfTitle = "Want To Read" changeBookShelf={this.props.changeBookShelf}/>
 		        <Shelf books = {books.filter((book) => (book.shelf === "read"))} shelfTitle = "Read" changeBookShelf={this.props.changeBookShelf}/>
