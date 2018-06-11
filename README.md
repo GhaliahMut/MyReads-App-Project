@@ -7,9 +7,8 @@ This project was built for the Udactity Front-End Nanodegree Program.
 * [How to Install the Project](#how-to-install-the-project)
 * [Resources](#resources)
 
-
-
-## About MyReads App Project It is a bookshelf app that allows you to select and categorize books you have read, currently reading, or want to read in an organized shelves. it is also allow you to search for new books and add them to your library.
+## About MyReads App Project 
+It is a bookshelf app that allows you to select and categorize books you have read, currently reading, or want to read in an organized shelves. it is also allow you to search for new books and add them to your library.
 
 ## How to Install the Project 
 1. Clone the repository or download it as zip.
@@ -21,12 +20,10 @@ This project was built for the Udactity Front-End Nanodegree Program.
 
 ## Resources
 
-
 ### MyReads Project Support Session 
 * https://www.youtube.com/watch?v=z25Z2_m9b2o&feature=youtu.be
 
-
-
 ### Youtube Tutorials
 * https://www.youtube.com/watch?v=-AbaV3nrw6E
+
 ### Fend Session Leaders
